@@ -34,7 +34,7 @@
 	"forwardPorts": [
 		8000,
 		7071
-	],
+	]
 	// Use 'postCreateCommand' to run commands after the container is created.
 	//"postCreateCommand": "npm install",
 }
